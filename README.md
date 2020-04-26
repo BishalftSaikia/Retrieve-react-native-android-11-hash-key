@@ -1,4 +1,4 @@
-# Retrieve-react-native-android-11-hash-key<br/>
+# Retrieve-react-native-android-11char-hash-key<br/>
 
 Retrieve android 11 digit hash key required for **SMS** retrieval during **OTP** capturing. Use it on your react-native project.<br/>
 
