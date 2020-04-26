@@ -4,7 +4,7 @@ Retrieve android 11 digit hash key required for **SMS** retrieval during **OTP**
 
 Step 1. Add the three java files to your projects **android/app/src/main/java/com/yourProjectName** folder.<br/>
 
-Step 2. Open the three java files in any IDE and alter the line **"package com.yourProjectName"** to your **package name** it can found in the AndroidMainifest file.<br/>
+Step 2. Open the three java files in any IDE and alter the line **"package com.yourProjectName"** to your **package name** it can be found in the AndroidMainifest file.<br/>
 
 Step 3. <br/>
 &nbsp;&nbsp;&nbsp;a. Open **MainApplication.java** file and add this line ---> **import com.yourPackageName.AppHashPackage;** <br/>
